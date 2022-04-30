@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning html, css, javascript, React.js, python and Django 
 - 💞️ I’m looking to collaborate on frontend development 
-- 📫 How to reach me giftetosh@gmail.com, +23470053073030 (Telegram/Whatsapp)
+- 📫 You can reach me through giftetosh@gmail.com, +23470053073030 (Telegram/Whatsapp)
 
 <a href="https://app.daily.dev/ToshIT"><img src="https://api.daily.dev/devcards/976b0216358943e6a8294d818491d940.png?r=zqe" width="400" alt="Stephen Omotosho's Dev Card"/></a>
 <!---
